@@ -125,7 +125,8 @@ Covid19-Analysis/
 
 ## 🚀 How to Run the Project
 
-```bash
+```
+bash
 git clone https://github.com/budigepavani3/covid19-analysis.git
 
 1.Open the Jupyter Notebook (covid.ipynb) and execute all cells
@@ -133,6 +134,7 @@ git clone https://github.com/budigepavani3/covid19-analysis.git
 3.Open the Power BI dashboard (covid_dashboard.pbix) using Power BI Desktop
 
 ---
+
 🎯 Use Cases
 
 1.Data Analyst portfolio project
@@ -142,15 +144,17 @@ git clone https://github.com/budigepavani3/covid19-analysis.git
 5.Dashboard and reporting demonstration
 
 ---
+
 ## 👩‍💻 Author
 
-**Budiga Pavani**  
-_Data Analyst | Python & Power BI Enthusiast_
+**Budiga Pavani*
+Data Analyst | Python & Power BI Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-budigepavani3-black?style=for-the-badge&logo=github)](https://github.com/budigepavani3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-budigapavani-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/budigapavani)
+🔗 GitHub: https://github.com/your-budigepavani3
+🔗 LinkedIn: https://www.linkedin.com/in/ pavani-budiga
 
 ---
+
 ⭐ If you find this project insightful, feel free to star the repository.
 
 
